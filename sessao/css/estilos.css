@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    gap: .6rem;
+    margin-bottom: .9rem;
+    background-color: #ccc;
+    padding: .6rem;
+}
+
+nav > a {
+    color: #fff;
+}
